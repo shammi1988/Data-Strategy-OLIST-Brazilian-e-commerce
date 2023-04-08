@@ -45,6 +45,9 @@ You can visit the Kaggle page of the data set here https://www.kaggle.com/olistb
 
 ### Output: List of documents
 
-
+- Strategy presentations for the DS adoption roadmap in a PDF format.
+- Word documents for solutions of each use case.
+- An Excel file for prioritising use cases.
 
  
+For further information about this data Strategy please contact Shammi Kapoor[@shammi1988]
